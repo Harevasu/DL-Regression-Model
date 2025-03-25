@@ -129,21 +129,19 @@ print(f"\nPrediction for x = 120: {y_new_pred:.8f}")
 ```
 
 ### Dataset Information
-![image](https://github.com/user-attachments/assets/633d2964-b7a4-48b6-ba1d-94b31e562ed6)
-
+![image](https://github.com/user-attachments/assets/bff114cd-a84c-44e7-9e7b-a17332953ae9)
 
 
 ### OUTPUT
-Training Loss Vs Iteration Plot
-![image](https://github.com/user-attachments/assets/8860fd56-e8a7-4f76-a931-c3c3227f0324)
+![image](https://github.com/user-attachments/assets/78bc7a51-5d21-4cf7-ba15-d52ee46c0bb7)
 
-Best Fit line plot
-![image](https://github.com/user-attachments/assets/416a2f55-2e1f-4a50-a9f9-997e2b5a80a7)
+![image](https://github.com/user-attachments/assets/28cc7524-bf51-4d8d-83a4-325e2bf9afa2)
 
 
 
 ### New Sample Data Prediction
-![image](https://github.com/user-attachments/assets/d9cd2b04-f01a-4864-801b-cb1194d9d7c6)
+![image](https://github.com/user-attachments/assets/ef88d76e-69e1-4c73-b07c-c86d8a756155)
+
 
 
 ## RESULT
