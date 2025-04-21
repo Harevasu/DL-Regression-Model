@@ -7,6 +7,8 @@ To develop a neural network regression model for the given dataset.
 Regression problems involve predicting a continuous output variable based on input features. Traditional linear regression models often struggle with complex patterns in data. Neural networks, specifically feedforward neural networks, can capture these complex relationships by using multiple layers of neurons and activation functions. In this experiment, a neural network model is introduced with a single linear layer that learns the parameters weight and bias using gradient descent.
 
 ## Neural Network Model
+![image](https://github.com/user-attachments/assets/7f69e2a4-2c73-44be-a69d-060235c3ea0b)
+
 ![image](https://github.com/user-attachments/assets/5db08f35-1e67-4b3e-9e07-d580371ab56d)
 
 
